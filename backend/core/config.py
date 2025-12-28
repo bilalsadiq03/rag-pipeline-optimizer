@@ -1,6 +1,6 @@
 import os
 
-UPLOAD_DIR = "backend/data/uploads"
+UPLOAD_DIR = "data/uploads"
 CHUNK_SIZE = 512
 CHUNK_OVERLAP = 50
 
